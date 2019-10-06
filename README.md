@@ -60,3 +60,4 @@ Based on Python for Everybody Specialization
 
 *Week*
 1. **Chapter One/ Chapter Two:** *(They are very similar material, as we're setting up for the course, so I combined both chapters)* We learned about why we program and how to set everything up so we can begin programming. I downloaded Python, Atom, and a text editor for this program. I got to get some hands on experience with the python editor/shell. It was a great introduction especially cause it featured the creator of the Python Language.
+3. **Chapter Three:** During this week, I was taught how to get python to spit out "Hello World". By typing **print("Hello World!")** He also got into explainging what IF, Else, While, For, etc. or conditionals for us to get introduce them. He also showed us examples of them. 
